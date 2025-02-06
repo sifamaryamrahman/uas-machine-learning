@@ -1,0 +1,103 @@
+## TUGAS 9
+Nama: Sifa Maryam Rahman
+
+NPM:	41155050210031
+
+Kelas:	TIF A1
+
+
+1. Berikut adalah hasil praktik dari video youtube https://www.youtube.com/watch?v=X3MNBMx6pk8   
+
+1.1.	1.1.	Dengan perintah ini, Anda dapat mengakses file yang ada di dalam Google Drive dari lingkungan Google Colab. Setelah perintah drive.mount() dijalankan, pengguna diminta untuk memberikan izin akses ke Google Drive.
+
+1.2.	Visualisasi dataset
+ ![image](https://github.com/user-attachments/assets/ad180478-aabd-455f-b2c0-29b4fcc33cb3)
+
+1.3.	Transformasi dataset
+ ![image](https://github.com/user-attachments/assets/91d56423-d8c4-4db8-957c-e4ac443cb7cd)
+
+1.4.	Training Simple Linear Regression Model
+ ![image](https://github.com/user-attachments/assets/76f144b5-b0b7-4bd9-98a0-cd7439cc0463)
+
+1.5.	Visualisasi Simple Linear Regression Model | Penjelasan persamaan garis linear
+ ![image](https://github.com/user-attachments/assets/8bffdb2d-966d-4e35-a370-42ad513db991)
+
+ ![image](https://github.com/user-attachments/assets/f1a7064c-d0f2-4982-bc59-a523b40f0702)
+
+1.6.	Kalkulasi nilai slope
+ ![image](https://github.com/user-attachments/assets/8445365c-10aa-47de-94ae-235f4ae053c0)
+ ![image](https://github.com/user-attachments/assets/e8bce4e2-0d6c-42d2-a212-d58507a72b27)
+
+1.7.	Kalkukasi nilai intercept
+ ![image](https://github.com/user-attachments/assets/acd809b7-28b5-4316-baee-d4a653311f7b)
+
+1.8.	Prediksi harga pizza dengan Simple Linear Regression Model
+ ![image](https://github.com/user-attachments/assets/50df4d27-9de9-412a-bc59-58d3e91ae51d)
+
+1.9.	 Evaluasi model dengan Coefficient of Determination | R Squared
+ ![image](https://github.com/user-attachments/assets/4281c283-1de9-4b56-82d6-75073c00202b)
+
+1.10.	Kalkulasi nilai R Squared | Coefficient of Determination
+![image](https://github.com/user-attachments/assets/e8b68a26-b17e-4f82-b700-6a677642833b)
+ 
+2.	Berikut adalah hasil praktik dari video youtube https://youtu.be/nWJUJenAyB8?si=BQDzWwrMnr8jtzpV 
+
+2.1.	 Persiapan sample dataset
+ ![image](https://github.com/user-attachments/assets/5c8315f1-5130-461e-bf71-1359eff2c7c6)
+
+ ![image](https://github.com/user-attachments/assets/05b850c3-a7c2-48d8-b085-6296b994c278)
+
+2.2.	Preprocessing dataset
+ ![image](https://github.com/user-attachments/assets/98833ef2-a29d-4ce7-a783-8c3b9247e959)
+
+2.3.	 Pengenalan Multiple Linear Regression | Apa itu Multiple Linear Regression?
+ ![image](https://github.com/user-attachments/assets/23e57bd5-50f6-49aa-9a29-f55e9262a2ea)
+ 
+2.4.	Pengenalan Polynomial Regression | Apa itu Polynomial Regression?
+2.5.	 Quadratic Polynomial Regression
+ ![image](https://github.com/user-attachments/assets/4940670c-ee06-4c7c-8647-b8b2d5fce799)
+
+ ![image](https://github.com/user-attachments/assets/63839bf8-eabd-4131-908f-9980a5c4a0e0)
+
+ ![image](https://github.com/user-attachments/assets/322c2c33-5e5f-49ff-a281-583277f591fc)
+
+2.6.	 Linear Regression vs Quadratic Polynomial Regression vs Cubic Polynomial Regression
+ ![image](https://github.com/user-attachments/assets/0eb9208f-ef9b-4627-b288-721dfc1e62ca)
+
+ ![image](https://github.com/user-attachments/assets/0b02894f-0008-44f9-884a-096d38421514)
+
+ ![image](https://github.com/user-attachments/assets/b1af4b5e-5d97-49c5-ac98-55085e1b9053)
+
+3.	Berikut adalah hasil praktik dari video youtube https://youtu.be/oe7DW4rSH1o?si=H-PZJ9rs9-Kab-Ln 
+3.1.	Formula dasar pembentuk Logistic Regression | Fungsi Sigmoid
+3.2.	Persiapan dataset | SMS Spam Collection Dataset
+ ![image](https://github.com/user-attachments/assets/8f932c62-733e-4d8d-96a0-d4e220a2e38f)
+
+3.3.	Pembagian training dan testing set
+ ![image](https://github.com/user-attachments/assets/7c52a34b-5021-4a48-9bf0-523403b03322)
+
+3.4.	Feature extraction dengan TF-IDF
+ ![image](https://github.com/user-attachments/assets/f55e9579-4af6-41d7-96f2-b573327319b7)
+
+3.5.	Binary Classification dengan Logistic Regression
+ ![image](https://github.com/user-attachments/assets/96f6c172-814f-475d-a4d0-df7ed98fb28c)
+
+3.6.	Evaluation Metrics pada Binary Classification Task
+3.7.	Pengenalan Confusion Matrix
+![image](https://github.com/user-attachments/assets/93e66704-378e-445c-90a4-f4d8b0098d61)
+
+![image](https://github.com/user-attachments/assets/36385720-1a49-4492-bc6e-b3972b91aa36)
+
+3.8.	Pengenalan Accuracy Score
+![image](https://github.com/user-attachments/assets/d7bc4bfa-7641-4d9a-966d-dc6ac7d94c24)
+
+3.9.	Pengenalan Precision dan Recall
+3.10.	Pengenalan F1 Score | F1 Measure
+ ![image](https://github.com/user-attachments/assets/ceb38add-7597-4ce4-a8ad-e4c1bb4a0e54)
+
+3.11.	Pengenalan ROC | Receiver Operating Characteristic
+![image](https://github.com/user-attachments/assets/c9de4b49-0dc8-4afb-9d3b-41f131bb539d)
+
+![image](https://github.com/user-attachments/assets/c38d034c-878e-48c4-a382-b64f9b1db161)
+
+ 
